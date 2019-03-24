@@ -57,3 +57,7 @@ This loop continues till further n/2 length sentence has been predicted.
 
 For both the tasks Accuracy has been calculated over a window of length 5, i.e. even if the actual output matches <br/>
 with top 5 predicted words by the model, we are good to go. 
+
+## Weights
+
+The weights are exceeding the maximum submission limit, so please download it from my github url -> https://github.com/Vishal0703/Text-Prediction/"
