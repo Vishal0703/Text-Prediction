@@ -17,3 +17,5 @@ Task 2. Input sentence of length n/2 and predict the later n/2 part.
 ## Running the code:
 
 Run the file "15CS30039_Ass04.ipynb"
+
+Please refer to Report.md and the above notebook for the implementation details.
